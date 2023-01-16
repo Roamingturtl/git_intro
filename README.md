@@ -1,1 +1,2 @@
-"Collin Koss" 
+Collin Koss
+kossc@oregonstate.edu
